@@ -1,7 +1,5 @@
 # wpgraphql-application-passwords
-** This is a beta version of application password support for WPGraphQL.  You could use this plugin to create a mutation when a user needs to 
-
-authenticate themselves with a service without using your human login credentials.  This will generate a application password for you to use instead.
+** This is a beta version of application password support for WPGraphQL.  You could use this plugin to create a mutation when a user needs to authenticate themselves with a service without using your human login credentials.  This will generate a application password for you to use instead.
 
 The flow would go something like this:
 
